@@ -4,10 +4,9 @@
 
 - 🙍🏻‍♀️ I'm a self-taught front-end developer since 2020.
 - 🎵 I made [lofi-cafe](https://www.lofi.cafe/) together with [Fabrizio](https://github.com/linuz90).
-- 💻 I'm currently working on a e-commerce website using Next.js + [Fake Store API](https://fakestoreapi.com/).
+- 💻 I'm currently working on an e-commerce website using Next.js + [Fake Store API](https://fakestoreapi.com/).
 - 📚 I'm currently learning [Next.js](https://nextjs.org/).
-- 🎓 I have a Master's degree in Dentistry.
-- 🌱 I'm passionate about strength training, nutrition and medicine in general.
+- 🧐 Fun fact: I have a Master's Degree in Dentistry along with a six years' experience in dental offices and hospitals, but I decided to change career in my 30s and learned web developement.
 - 💬 Connect with me on [Twitter](https://twitter.com/maridivi89).
 
 <p align="center">
