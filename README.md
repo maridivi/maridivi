@@ -7,6 +7,7 @@
 - 📚 I'm currently learning [Next.js](https://nextjs.org/).
 - 🎓 I have a Master's degree in Dentistry.
 - 🌱 I'm passionate about strength training, nutrition and medicine in general.
+- 💬 Connect with me on [Twitter](https://twitter.com/maridivi89)
 
 
 
