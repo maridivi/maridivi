@@ -9,6 +9,8 @@
 - 🌱 I'm passionate about strength training, nutrition and medicine in general.
 - 💬 Connect with me on [Twitter](https://twitter.com/maridivi89)
 
+[![maridivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
