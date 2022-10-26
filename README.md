@@ -3,11 +3,12 @@
 ***
 
 - 🙍🏻‍♀️ I'm a self-taught front-end developer since 2020.
+- 🎵 I made [lofi-cafe](https://www.lofi.cafe/) together with [Fabrizio](https://github.com/linuz90).
 - 💻 I'm currently working on a e-commerce website using Next.js + [Fake Store API](https://fakestoreapi.com/).
 - 📚 I'm currently learning [Next.js](https://nextjs.org/).
 - 🎓 I have a Master's degree in Dentistry.
 - 🌱 I'm passionate about strength training, nutrition and medicine in general.
-- 💬 Connect with me on [Twitter](https://twitter.com/maridivi89)
+- 💬 Connect with me on [Twitter](https://twitter.com/maridivi89).
 
 <p align="center">
 <img  src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
@@ -21,6 +22,8 @@
   <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
  </p>
+ 
+
 
 
 
