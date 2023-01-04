@@ -22,22 +22,6 @@
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
  </p>
  
- ## Projects
- 
- <p align= "center">
-<img width="400" height="310"alt="movie" src="https://user-images.githubusercontent.com/68649664/198363805-69925df7-428d-490a-b91d-d896e1a6102e.png">
-<img width="400"  height="310" alt="pomodoro" src="https://user-images.githubusercontent.com/68649664/198411526-7a3fdbea-35d9-4b00-895f-e502d604a117.png" />
-<a   href="https://github.com/maridivi/movie-generator" >
-<img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=maridivi&repo=movie-generator&bg_color=FFF5E4&title_color=FF9494&border_color=FFD1D1&icon_color=FF9494" />
-
-</a>
-
-<a   href="https://github.com/maridivi/pomodoro-timer" >
-<img align=""  src="https://github-readme-stats.vercel.app/api/pin/?username=maridivi&repo=pomodoro-timer&bg_color=FFF5E4&title_color=FF9494&border_color=FFD1D1&icon_color=FF9494" />
-
-</a>
-
- </p>
  
 
 
