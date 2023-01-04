@@ -24,6 +24,7 @@
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maridivi&show_icons=true&theme=transparent)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maridivi)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maridivi)](https://github.com/maridivi/github-readme-stats)
  
  
 
