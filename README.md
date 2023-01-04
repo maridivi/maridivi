@@ -23,6 +23,7 @@
  </p>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maridivi&show_icons=true&theme=transparent)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maridivi)](https://git.io/streak-stats)
  
  
 
