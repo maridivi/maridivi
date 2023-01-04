@@ -21,10 +21,19 @@
   <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
  </p>
+ ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/maridivi"><img src="https://github-readme-stats.vercel.app/api?username=maridivi&show_icons=true&theme=transparent" alt="maridivi's GitHub stats" /></a>
+
+<a href="http://www.github.com/maridivi"><img src="https://github-readme-streak-stats.herokuapp.com?user=maridivi"  /></a>
+
+<a href="https://github.com/maridivi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maridivi" alt="Top Languages" /></a>
+  
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maridivi&show_icons=true&theme=transparent)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maridivi)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maridivi)](https://github.com/maridivi/github-readme-stats)
+
+
  
  
 
