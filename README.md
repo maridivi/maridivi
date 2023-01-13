@@ -25,7 +25,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/maridivi"><img src="https://github-readme-stats.vercel.app/api?username=maridivi&show_icons=true&theme=transparent" alt="maridivi's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/maridivi"><img src="https://github-readme-streak-stats.herokuapp.com?user=maridivi"  /></a>
 
