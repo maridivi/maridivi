@@ -4,7 +4,7 @@
 
 - 🙍🏻‍♀️ I'm a self-taught front-end developer since 2020.
 - 🎵 I made [lofi-cafe](https://www.lofi.cafe/) together with [Fabrizio](https://github.com/linuz90).
-- 💻 I'm currently working on an e-commerce website using Next.js + Airtable API for the products.
+- 💻 I'm currently working on an AI-powered app to search books, using Next.js + Tailwind CSS.
 - 📚 I'm currently learning [Typescript](https://www.typescriptlang.org/).
 - 🧐 Fun fact: I have a Master's Degree in Dentistry along with a six years' experience in dental offices and hospitals, but I decided to change career in my 30s and learned web developement.
 - 💬 Connect with me on [Twitter](https://twitter.com/maridivi89).
