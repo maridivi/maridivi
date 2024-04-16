@@ -2,7 +2,7 @@
 
 ***
 
-- 🙍🏻‍♀️ I'm a self-taught front-end developer since 2022.
+- 🙍🏻‍♀️ I'm a web developer since 2022.
 - 🎵 I made [lofi-cafe](https://www.lofi.cafe/) together with [Fabrizio](https://github.com/linuz90).
 - 💻 I've recently graduated from [Ironhack](https://www.ironhack.com/ww/web-development) bootcamp.
 - 🧐 Fun fact: I have a Master's Degree in Dentistry along with a six years' experience in dental offices and hospitals, but I decided to change career in my 30s and learned web developement.
